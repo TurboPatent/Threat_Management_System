@@ -1,0 +1,545 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"ea5ad99c-73e5-b611-ec75-df958bfedbff\" id=\"id8c4b3371-98ed-4ae2-a359-196c8aaefbd8\" data-type=\"term\">data network</span></p>",
+        "position": {
+          "x": 300,
+          "y": 385.8346477508542
+        },
+        "size": {
+          "width": 558,
+          "height": 75
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position9",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "431f73ef-8a50-47d8-bab5-ad54734b14b5",
+        "z": 0,
+        "labelLayout": {
+          "labelBoxWidth": 447.50823974609375,
+          "fullString": " ",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": " ",
+              "width": 0,
+              "x": 223.75411987304688,
+              "y": 3.6837380783081066
+            }
+          ],
+          "textWidth": 0,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9193d9f0-909f-98ab-0bcf-0525f5d2000d",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a5c65910-e720-5900-2ed3-1fa20b831696\" id=\"id868a31f2-05d4-606c-e141-6eed700b27fa\" data-type=\"term\">threat management system</span></p>",
+        "position": {
+          "x": 163,
+          "y": 24
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "951ed18d-61d8-40c1-9a2f-53028925be65",
+        "z": 1,
+        "objectID": "086bb10d-9bb5-1c7b-b6dc-fa3de997f6fd",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 178.99999999999955,
+          "y": 41.99999999999622
+        },
+        "size": {
+          "width": 703,
+          "height": 164
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"c535f360-1394-9cc2-39f3-8002cc341b0b\" id=\"id9d5aba75-ca6e-2f40-7c2a-4fd74bae75af\" data-type=\"term\">endpoint</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "48d73c97-ac4c-467f-8b64-179a3f1667e3",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 641.3853759765625,
+          "fullString": "ENDPOINT 302",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "ENDPOINT 302",
+              "width": 89.64627075195312,
+              "x": 275.8695526123047,
+              "y": 127.86379306640626
+            }
+          ],
+          "textWidth": 89.64627075195312,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "3caa413e-8f06-594c-d1c8-de7abd17b12b",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 178,
+          "y": 254.9999999999991
+        },
+        "size": {
+          "width": 707,
+          "height": 94
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"dc16a888-7cfb-f366-9def-2315ab743dad\" id=\"id396cc693-81ca-91ba-56e1-e118fdb3c2a8\" data-type=\"term\">access point or firewall</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "97a8cd73-7cc3-4c39-970b-3178c338100e",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 645.0360717773438,
+          "fullString": "ACCESS POINT OR FIREWALL 304",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "ACCESS POINT OR FIREWALL 304",
+              "width": 193.76133728027344,
+              "x": 225.63736724853516,
+              "y": 64.24677341308595
+            }
+          ],
+          "textWidth": 193.76133728027344,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d097a34e-2c6d-a59d-e8e6-dabc7091e1f0",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 185,
+          "y": 498.9999999999991
+        },
+        "size": {
+          "width": 698,
+          "height": 94
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"25bced7c-4b9d-e465-912d-8179601efeef\" id=\"id051bd2a3-0743-fe0a-e5b9-1ede66d55dc2\" data-type=\"term\">server</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "0b45324a-729b-789b-bde1-3abb06c473f9",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 636.822509765625,
+          "fullString": "SERVER 306",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "SERVER 306",
+              "width": 70.75851440429688,
+              "x": 283.03199768066406,
+              "y": 64.24677341308595
+            }
+          ],
+          "textWidth": 70.75851440429688,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "6393f83a-7113-5c9c-2f6e-23da0855183c",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 37,
+          "y": 398
+        },
+        "size": {
+          "width": 99.22006541426869,
+          "height": 184.71820688826617
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"c715180e-9196-db90-0531-8afcc0ada3cb\" id=\"id113b2e87-8c8f-8baa-1461-020e3f8e5250\" data-type=\"term\">threat management facility</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "208bf126-3ad1-4ffb-bc6e-968e556e0506",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 90.35696411132812,
+          "fullString": "THREAT MANAGEMENT FACILITY 308",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "THREAT",
+              "width": 43.51567077636719,
+              "x": 23.42064666748047,
+              "y": 52.34130574951172
+            },
+            {
+              "text": "MANAGEMENT",
+              "width": 90.35696411132812,
+              "x": 0,
+              "y": 73.34134324951171
+            },
+            {
+              "text": "FACILITY 308",
+              "width": 73.85636901855469,
+              "x": 8.250297546386719,
+              "y": 94.34138074951171
+            }
+          ],
+          "textWidth": 90.35696411132812,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "007a5e73-431c-3c2a-b920-9aeeb4399ca2",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "doubleArrowVertical",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"261e1691-f8c3-f068-70dc-186286d9d4fc\" id=\"iddfb2ea9a-cfe5-5fe5-b0c4-65e6560aeb6a\" data-type=\"term\">coloring system</span></p>",
+        "position": {
+          "x": 617,
+          "y": 128
+        },
+        "size": {
+          "width": 97,
+          "height": 424
+        },
+        "angle": 0,
+        "label": "<p>coloring&nbsp;</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "4abac8cd-92e5-463e-80e2-bc1973af3361",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 75.96261596679688,
+          "fullString": "coloring  310",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "coloring ",
+              "width": 48.062225341796875,
+              "x": 13.9501953125,
+              "y": 176.01006381835938
+            },
+            {
+              "text": "310",
+              "width": 22.386520385742188,
+              "x": 26.788047790527344,
+              "y": 197.01010131835938
+            }
+          ],
+          "textWidth": 48.062225341796875,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "b9f0e71d-ac46-3871-a01c-cccb0341683f",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "doubleArrowVertical",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6dca196f-c9f5-1818-2d3f-ebdcf7dc8614\" id=\"iddc3b7d1e-f12d-4ab4-3f62-3700b6e0c3e8\" data-type=\"term\">key management system</span></p>",
+        "position": {
+          "x": 699,
+          "y": 125
+        },
+        "size": {
+          "width": 101.33873125053731,
+          "height": 442.96517577554454
+        },
+        "angle": 0,
+        "label": "<p>key management</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "7b95417a-e9eb-f0f7-d872-a60c2731b9ad",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 79.36294555664062,
+          "fullString": "key management 312",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "key",
+              "width": 18.997100830078125,
+              "x": 30.18292236328125,
+              "y": 174.32214833984375
+            },
+            {
+              "text": "management",
+              "width": 79.35960388183594,
+              "x": 0.00167083740234375,
+              "y": 195.32218583984374
+            },
+            {
+              "text": "312",
+              "width": 22.386520385742188,
+              "x": 28.48821258544922,
+              "y": 216.32222333984373
+            }
+          ],
+          "textWidth": 79.35960388183594,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "95899d81-e12e-6f23-f23d-c9a61f6c514b",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "doubleArrowVertical",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6741109e-fc90-4186-6218-45ae50030be8\" id=\"idbcad4d31-5c8c-75dc-27bc-7425aee5d52a\" data-type=\"term\">heartbeat system</span></p>",
+        "position": {
+          "x": 780,
+          "y": 124
+        },
+        "size": {
+          "width": 101.33873125053731,
+          "height": 442.96517577554454
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"04f10361-2c38-d2a1-3f4b-f02ac62491cc\" id=\"ida35edcc2-e58d-0a33-a167-4231197891d1\" data-type=\"term\">heartbeat</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "5f4900ee-d459-ecd1-2fd1-4d4d7a989779",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 79.43875885009766,
+          "fullString": "heartbeat 314",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "heartbeat",
+              "width": 58.257781982421875,
+              "x": 10.59048843383789,
+              "y": 184.82216708984376
+            },
+            {
+              "text": "314",
+              "width": 22.386520385742188,
+              "x": 28.526119232177734,
+              "y": 205.82220458984375
+            }
+          ],
+          "textWidth": 58.257781982421875,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "c0e0ec58-1aa9-1815-c3f4-02b3f4d2c362",
+        "number": 14
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "48d73c97-ac4c-467f-8b64-179a3f1667e3"
+        },
+        "target": {
+          "id": "208bf126-3ad1-4ffb-bc6e-968e556e0506"
+        },
+        "id": "eb759dfd-0162-40e3-91b8-a457d045a2ab",
+        "embeds": "",
+        "z": 9,
+        "routing": "straight",
+        "objectID": "1133664c-e105-ab39-2b86-63d8111ea259",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 82,
+            "y": 121
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "97a8cd73-7cc3-4c39-970b-3178c338100e"
+        },
+        "target": {
+          "x": 82,
+          "y": 300
+        },
+        "id": "7b50e1a7-0d8a-4073-a638-d2e60693e680",
+        "embeds": "",
+        "z": 10,
+        "routing": "straight",
+        "objectID": "170e9edd-1c38-d697-8ffe-b2785bf1980a",
+        "labelVAlign": "center",
+        "labelPosition": "internal"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "0b45324a-729b-789b-bde1-3abb06c473f9"
+        },
+        "target": {
+          "id": "208bf126-3ad1-4ffb-bc6e-968e556e0506"
+        },
+        "id": "a5943136-d9b8-460a-a3f0-744374721261",
+        "embeds": "",
+        "z": 11,
+        "routing": "straight",
+        "objectID": "609f9adf-6c96-5f58-716c-013735c67494",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 166,
+            "y": 546
+          },
+          {
+            "x": 165,
+            "y": 487
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a80e2032-7cad-48d5-f123-a38ad66a2b25\" id=\"id1b311757-e32c-3705-4bac-f75cb2f845ae\" data-type=\"term\">endpoint threat protection facility</span></p>",
+        "position": {
+          "x": 302,
+          "y": 52
+        },
+        "size": {
+          "width": 455,
+          "height": 62
+        },
+        "angle": 0,
+        "label": "<p>endpoint threat protection</p>",
+        "strokeStyle": "dashed",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "8d3e1400-7b73-47f1-98ab-0092a69d89d8",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 415.0560302734375,
+          "fullString": "endpoint threat protection 318",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "endpoint threat protection 318",
+              "width": 184.04867553710938,
+              "x": 115.50367736816406,
+              "y": 17.583797778320314
+            }
+          ],
+          "textWidth": 184.04867553710938,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f64febe8-b106-ec50-986e-76911453db57",
+        "number": 18
+      }
+    ]
+  }
+}

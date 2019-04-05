@@ -1,0 +1,2991 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "bottom",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 21,
+          "y": 21
+        },
+        "size": {
+          "width": 533,
+          "height": 212
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"c715180e-9196-db90-0531-8afcc0ada3cb\" id=\"id3cca2c17-31ab-e5ea-2349-a8f403d61a95\" data-type=\"term\">threat management facility</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "ea4c156c-54a8-484d-aba2-056ae2731237",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 486.4126892089844,
+          "fullString": "THREAT MANAGEMENT FACILITY 168",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "THREAT MANAGEMENT FACILITY 168",
+              "width": 214.74472045898438,
+              "x": 135.833984375,
+              "y": 171.66448276367188
+            }
+          ],
+          "textWidth": 214.74472045898438,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "71189045-03a4-00d1-e89b-1cb59521fe62",
+        "number": 68
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 15.999999999999744,
+          "y": 268.00000000000006
+        },
+        "size": {
+          "width": 298,
+          "height": 349
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"102e91ce-5fb7-6ebc-2956-d5c9785847a9\" id=\"id8805b54b-5b65-c3a9-01e8-174f7f837374\" data-type=\"term\">network</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "4089c631-5eaf-7708-cc06-ca04225fb396",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 271.95306396484375,
+          "fullString": "NETWORK 170",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NETWORK 170",
+              "width": 87.15890502929688,
+              "x": 92.39707946777344,
+              "y": 0
+            }
+          ],
+          "textWidth": 87.15890502929688,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "161de741-5da6-e5ec-da04-7042a282758f",
+        "number": 70
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 26.999999999999545,
+          "y": 29
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"e7000bdd-06ad-9986-a162-1d53f76deff6\" id=\"idee4d29ac-a65b-176a-240d-caaf16c387c0\" data-type=\"term\">policy management</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "cc05756c-2896-421f-baa8-8763009a89f3",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "policy management 146",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "policy",
+              "width": 34.63214111328125,
+              "x": 39.72106170654297,
+              "y": 0
+            },
+            {
+              "text": "management 146",
+              "width": 105.25398254394531,
+              "x": 4.4101409912109375,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 105.25398254394531,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "e6aecedb-960d-fbd1-b2cc-cd614c15060d",
+        "number": 46
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 156,
+          "y": 29
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"13cbd0f6-bb32-c935-0d4f-d5ade8badf80\" id=\"id02b587c1-3a55-787f-d793-10a2d6eb4de2\" data-type=\"term\">definitions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "cc2f0b0c-90c4-c709-5d3a-a319e16315f4",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "definitions 156",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "definitions 156",
+              "width": 89.56428527832031,
+              "x": 12.254989624023438,
+              "y": 0
+            }
+          ],
+          "textWidth": 89.56428527832031,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5a9f3daf-ff25-5898-0b18-63a07c02ad3c",
+        "number": 56
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 286,
+          "y": 29
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"b151f010-d954-7bd6-cff4-af4be1e9a62d\" id=\"id6e8475ea-c541-6272-f037-31d65320e124\" data-type=\"term\">testing</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "9d1d9a81-5ea6-6ef0-3d1b-ac0aaeaaefa4",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "testing 164",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "testing 164",
+              "width": 65.45570373535156,
+              "x": 24.309280395507812,
+              "y": 0
+            }
+          ],
+          "textWidth": 65.45570373535156,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0a503607-0b2d-f461-8ee2-0ae8226d1808",
+        "number": 64
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"ef181970-7e2f-4bf8-0d51-ab83c822e39f\" id=\"id3c7206a9-6729-c94f-093e-1eb7eba22a4d\" data-type=\"term\">security management facility</span></p>",
+        "position": {
+          "x": 28,
+          "y": 84
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>security management</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "7fa64cdc-1132-a6b7-eed6-7fd8cda0789c",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "security management 102",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "security",
+              "width": 45.5474853515625,
+              "x": 34.263389587402344,
+              "y": 0
+            },
+            {
+              "text": "management 102",
+              "width": 105.25398254394531,
+              "x": 4.4101409912109375,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 105.25398254394531,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "2ddeff4a-f372-5748-f70c-ea5e0c4e4bbf",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 415,
+          "y": 29
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ca215dc7-04fa-ff3a-212c-3593bc8d4725\" id=\"id62c1ef47-1570-2658-fe97-24c3b4feb661\" data-type=\"term\">updates</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "ba2f13c2-a652-fa90-9b18-886b216af605",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "updates 150",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "updates 150",
+              "width": 74.52149963378906,
+              "x": 19.776382446289062,
+              "y": 0
+            }
+          ],
+          "textWidth": 74.52149963378906,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2bf3cd11-1784-a311-f9d3-95241533d974",
+        "number": 50
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a834a8ee-8100-04a0-ad00-2d9ab221aed6\" id=\"id863bbf90-1643-7607-8557-ea8486273c68\" data-type=\"term\">network access rules facility</span></p>",
+        "position": {
+          "x": 159,
+          "y": 84
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>network access rules</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "86591e35-7b2d-7283-db3f-13c1de28c7fe",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "network access rules 106",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "network access",
+              "width": 90.18385314941406,
+              "x": 11.945205688476562,
+              "y": 0
+            },
+            {
+              "text": "rules 106",
+              "width": 55.615509033203125,
+              "x": 29.22937774658203,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 90.18385314941406,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "6afea93a-e243-5bdf-6ec8-9a6383925c52",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 288,
+          "y": 84
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"2f4b496c-f0d6-880a-7bfb-706bd2277ff0\" id=\"id18a8ba4f-ac95-75cf-8cdf-d2f70154a6ed\" data-type=\"term\">remedial actions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "2b9487ba-9914-8541-7396-12f7305f4a2c",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "remedial actions 152",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "remedial actions",
+              "width": 99.10385131835938,
+              "x": 7.485206604003906,
+              "y": 0
+            },
+            {
+              "text": "152",
+              "width": 22.386520385742188,
+              "x": 45.8438720703125,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 99.10385131835938,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "593965b5-7206-89dd-75e1-31a039793ecd",
+        "number": 52
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "",
+        "position": {
+          "x": 28,
+          "y": 139
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"84b12236-47b5-18a0-d5b4-54fb4232d7de\" id=\"id9dc3c9db-ed5f-c012-00c7-d86585710a27\" data-type=\"term\">detection techniques</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "33f860af-63f4-2123-1d09-513a8a4d61f4",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "detection techniques 148",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "detection",
+              "width": 55.916168212890625,
+              "x": 29.07904815673828,
+              "y": 0
+            },
+            {
+              "text": "techniques 148",
+              "width": 91.7054443359375,
+              "x": 11.184410095214844,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 91.7054443359375,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "d14fbb80-da83-9ce0-149a-7f59b8fb79a1",
+        "number": 48
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"023d80d6-de60-5ab5-c9c4-f8a4454e9cad\" id=\"id560a120d-e64c-e889-1c42-7a456702420c\" data-type=\"term\">threat research facility</span></p>",
+        "position": {
+          "x": 160,
+          "y": 139
+        },
+        "size": {
+          "width": 125,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>threat research</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "c06f71a0-5ce7-d74e-0d14-51f6a6ab9882",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "threat research 104",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "threat research",
+              "width": 89.60072326660156,
+              "x": 12.236770629882812,
+              "y": 0
+            },
+            {
+              "text": "104",
+              "width": 22.386520385742188,
+              "x": 45.8438720703125,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 89.60072326660156,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "80cab7c7-4bf5-8c4e-3b9e-e884bb1acb5f",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"1425bfea-8746-c22b-cf45-8b84467a9715\" id=\"id28de7011-e6d3-5924-6c52-c7fff1989f95\" data-type=\"term\">administration facility</span></p>",
+        "position": {
+          "x": 160,
+          "y": 309
+        },
+        "size": {
+          "width": 140,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>administration</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "41d429eb-f35b-4913-a891-b37701eb76f8",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 127.76317596435547,
+          "fullString": "administration 108",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "administration 108",
+              "width": 113.0897216796875,
+              "x": 7.336727142333984,
+              "y": 0
+            }
+          ],
+          "textWidth": 113.0897216796875,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "e16b529a-612a-e9b0-3cfb-15f7b8c9496a",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a06aaa1f-4f2a-dac3-86f5-b3bb184c2d86\" id=\"idfe23331e-ab18-9249-189b-babf69bcd05c\" data-type=\"term\">firewall</span></p>",
+        "position": {
+          "x": 59.99999999999997,
+          "y": 349
+        },
+        "size": {
+          "width": 100.65641119780024,
+          "height": 27.841135012157512
+        },
+        "angle": 0,
+        "label": "<p>firewall a</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "18c943e1-fea0-4c28-85f2-c4297b03d425",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 91.85845184326172,
+          "fullString": "firewall a 110",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "firewall a 110",
+              "width": 80.243408203125,
+              "x": 5.807521820068359,
+              "y": 0
+            }
+          ],
+          "textWidth": 80.243408203125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "3f2f9412-dcce-4d96-4544-44e2b980f8d3",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 33,
+          "y": 349
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position7",
+        "id": "6348165f-59c2-4f21-aff9-1853083f4280",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"26e2aaa8-d191-086d-08dd-21e5bea1d7f3\" id=\"idf2b83181-724f-9a9e-b199-88c92d2fa726\" data-type=\"term\">appliance</span></p>",
+        "position": {
+          "x": 181,
+          "y": 349
+        },
+        "size": {
+          "width": 112.98278955108773,
+          "height": 28.778635074333668
+        },
+        "angle": 0,
+        "label": "<p>appliance a</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "1ac65901-9e36-4b1d-a800-351674c3193b",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 103.10742950439453,
+          "fullString": "appliance a 144",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "appliance a 144",
+              "width": 95.14955139160156,
+              "x": 3.9789390563964844,
+              "y": 0
+            }
+          ],
+          "textWidth": 95.14955139160156,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "64cfd78b-6b96-bc2f-81c0-5b4ebf8eb936",
+        "number": 44
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 256,
+          "y": 398
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "d0d6ad4e-fe1a-92b7-fbaa-830bc48d7116",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"25bced7c-4b9d-e465-912d-8179601efeef\" id=\"idf57392f9-81d4-15ea-beb2-5ea26ef51e9f\" data-type=\"term\">server</span></p>",
+        "position": {
+          "x": 151,
+          "y": 398.00000000000006
+        },
+        "size": {
+          "width": 106,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<span data-role=\"tag\" data-value=\"0ae1917c-4e5c-2c7f-2540-11643772d230\" id=\"id01838214-3157-8c75-1425-24b99089cdce\" data-type=\"term\">server a</span>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "2851325f-abeb-ef7e-fb9c-826e18a75184",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 96.73497009277344,
+          "fullString": "server a 136",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "server a 136",
+              "width": 73.19125366210938,
+              "x": 11.771858215332031,
+              "y": 0
+            }
+          ],
+          "textWidth": 73.19125366210938,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9ef5b207-9923-daa0-e44b-e6d29bbeeabf",
+        "number": 36
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 270,
+          "y": 450
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "b10aeb5c-37d8-1cc6-92dc-55c42cf16f2a",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 27,
+          "y": 450
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position5",
+        "id": "ae6937e4-6521-7bf9-bf01-255e9be74c8c",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5de2f734-3bcd-5d3e-f866-255b8d6936e0",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a828b390-d539-3680-ae4f-3a70c3030dc9\" id=\"ida114b2be-8494-e03a-c950-53cf184063af\" data-type=\"term\">network devices</span></p>",
+        "position": {
+          "x": 168,
+          "y": 450.00000000000006
+        },
+        "size": {
+          "width": 103,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>net dev a</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "fdda8bb8-6648-2210-0f41-2720f93a12b2",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 93.9971923828125,
+          "fullString": "net dev a 132",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "net dev a 132",
+              "width": 80.41651916503906,
+              "x": 6.790336608886719,
+              "y": 0
+            }
+          ],
+          "textWidth": 80.41651916503906,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9bdf12bc-7fa2-5bbf-d2e0-084ae3a7ab6b",
+        "number": 32
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"idf28081d7-7a85-512c-bf24-e91aa20c645b\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 52,
+          "y": 450
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client a</p><p>&nbsp;</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "8a16add3-c5f6-a2a9-7b28-7b9d653ea68a",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client a   114",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client a   114",
+              "width": 68.68113708496094,
+              "x": 12.201732635498047,
+              "y": 0
+            }
+          ],
+          "textWidth": 68.68113708496094,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "00e4bade-1667-a5b3-cc8a-9011ebcc7c14",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 26,
+          "y": 515
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position5",
+        "id": "50ffec8b-8d80-72fb-d958-5370fe6f356c",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "04a9ab23-d5c4-60fb-00ce-e59e609c272d",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 275,
+          "y": 515
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "f0e2e25f-9c17-1521-a921-87bf87dc57bf",
+        "z": 13,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "c7be4dd3-1e1a-e783-a153-5dbe2e2676b8",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 66,
+          "y": 487
+        },
+        "size": {
+          "width": 30,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "leadLinePosition": "position4",
+        "id": "4520359d-20f2-4714-8309-9e93f1decc1c",
+        "z": 14,
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"id3742708d-8d49-e7ac-ff14-2545302aa02d\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 49,
+          "y": 515
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client b</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "47d013b5-524e-e8f8-9b77-7925642fcb90",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client b 116",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client b 116",
+              "width": 69.67427062988281,
+              "x": 11.70516586303711,
+              "y": 0
+            }
+          ],
+          "textWidth": 69.67427062988281,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "57cdf2a3-3fe2-2128-05d7-7368d9663385",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 26,
+          "y": 557
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position5",
+        "id": "0abb0a23-b254-7e99-fa06-751ee7540d93",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "27684740-3b28-2eb9-a469-0bb1da29a7f6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a828b390-d539-3680-ae4f-3a70c3030dc9\" id=\"ida114b2be-8494-e03a-c950-53cf184063af\" data-type=\"term\">network devices</span></p>",
+        "position": {
+          "x": 173,
+          "y": 515
+        },
+        "size": {
+          "width": 103,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>net dev b</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "bac75c89-5709-86c9-25de-0c1f72b18b78",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 93.9971923828125,
+          "fullString": "net dev b 134",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "net dev b 134",
+              "width": 81.40965270996094,
+              "x": 6.293769836425781,
+              "y": 0
+            }
+          ],
+          "textWidth": 81.40965270996094,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "59a415b1-767d-ef55-0787-c49e9cd6eff4",
+        "number": 34
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 491,
+          "y": 456
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "88dafaf9-e6ad-dc08-652a-b269b196ab06",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2a493575-58bf-87d4-0a23-d915ec61a3ae",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "4520359d-20f2-4714-8309-9e93f1decc1c"
+        },
+        "target": {
+          "id": "ae6937e4-6521-7bf9-bf01-255e9be74c8c"
+        },
+        "id": "84e8462b-9bef-49bd-a0c3-95c0f85a3f1a",
+        "embeds": "",
+        "z": 15,
+        "routing": "straight",
+        "objectID": "14245767-1f9d-8600-75fe-4d9619ab6d24",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"idc3acf81a-f8d4-24e9-7df5-42311f811f75\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 50,
+          "y": 557
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client c</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "61897847-ff1e-030f-7305-f26687a00d5f",
+        "z": 15,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client c 118",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client c 118",
+              "width": 67.32354736328125,
+              "x": 12.88052749633789,
+              "y": 0
+            }
+          ],
+          "textWidth": 67.32354736328125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "797d3668-26b6-cef1-bf6c-ce3f9842f991",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 267,
+          "y": 557
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position5",
+        "id": "0ea20ea2-593f-961b-dbb2-022cb4c7cf07",
+        "z": 15,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2c1dec38-3b79-ff5b-2729-25489d5c9eaf",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 142,
+          "y": 593
+        },
+        "size": {
+          "width": 30,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "leadLinePosition": "position4",
+        "id": "16c124b6-7df4-db50-df8c-1b771a25f1fb",
+        "z": 15,
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 491,
+          "y": 514
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "260bd4da-0027-8478-b412-f679523dd2b4",
+        "z": 15,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "99334656-7189-a6da-a953-858f52667cf1",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "4520359d-20f2-4714-8309-9e93f1decc1c"
+        },
+        "target": {
+          "id": "50ffec8b-8d80-72fb-d958-5370fe6f356c"
+        },
+        "id": "a116ea69-4f9b-425e-81ed-d608a80a01a6",
+        "embeds": "",
+        "z": 16,
+        "routing": "straight",
+        "objectID": "354ca312-9a74-dee5-f8a0-73d1ba44366f",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"id649c5661-7dd1-e926-ae60-eb404185bf7f\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 168,
+          "y": 557
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client d</p>",
+        "strokeStyle": "dashed",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "4f347151-692d-2f6c-33e2-6c39661a618b",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client d 128",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client d 128",
+              "width": 69.67427062988281,
+              "x": 11.70516586303711,
+              "y": 0
+            }
+          ],
+          "textWidth": 69.67427062988281,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0175e137-d34a-3573-f31b-3eb92a2cd8f1",
+        "number": 28
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"idc3acf81a-f8d4-24e9-7df5-42311f811f75\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 390,
+          "y": 456
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client e</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "08522007-f550-b193-fff6-29d34f73086b",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client e 126",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client e 126",
+              "width": 68.854248046875,
+              "x": 12.115177154541016,
+              "y": 0
+            }
+          ],
+          "textWidth": 68.854248046875,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7b3f552c-e429-16dc-a8a6-7c6f61977ef2",
+        "number": 26
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "16c124b6-7df4-db50-df8c-1b771a25f1fb"
+        },
+        "target": {
+          "x": 285,
+          "y": 585
+        },
+        "id": "2d60cb14-93eb-41e4-a34c-624cda882ffc",
+        "embeds": "",
+        "z": 17,
+        "routing": "straight",
+        "objectID": "3fd8ff4a-e571-07e0-e593-3b6ccad540eb",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"id649c5661-7dd1-e926-ae60-eb404185bf7f\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 393,
+          "y": 514
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client d</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "5509569d-509b-69e6-4f73-b08300b5453f",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client d 128",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client d 128",
+              "width": 69.67427062988281,
+              "x": 11.70516586303711,
+              "y": 0
+            }
+          ],
+          "textWidth": 69.67427062988281,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0175e137-d34a-3573-f31b-3eb92a2cd8f1",
+        "number": 28
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "16c124b6-7df4-db50-df8c-1b771a25f1fb"
+        },
+        "target": {
+          "x": 40,
+          "y": 585
+        },
+        "id": "fa72e680-d99b-4c99-9d65-a8d6500bf37e",
+        "embeds": "",
+        "z": 18,
+        "routing": "straight",
+        "objectID": "879860eb-5359-ad8d-f548-3de854eec836",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 361,
+          "y": 406
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "leadLinePosition": "position4",
+        "id": "8bb85210-f48f-4b1d-b193-0465a064fed7",
+        "z": 19,
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8bb85210-f48f-4b1d-b193-0465a064fed7"
+        },
+        "target": {
+          "id": "d0d6ad4e-fe1a-92b7-fbaa-830bc48d7116"
+        },
+        "id": "de0f73ac-0361-4e79-943a-30397c687a2a",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "479eac90-b387-2ee9-bf12-ec4104895ad1",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 579,
+          "y": 499
+        },
+        "size": {
+          "width": 30.236221313476562,
+          "height": 30.236221313476562
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "leadLinePosition": "position4",
+        "id": "bc50e571-b2b9-0274-812a-6bedf5b9a5d2",
+        "z": 20,
+        "objectID": "9134344f-f6aa-10d4-abbf-e4cc446e62eb",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8bb85210-f48f-4b1d-b193-0465a064fed7"
+        },
+        "target": {
+          "id": "b10aeb5c-37d8-1cc6-92dc-55c42cf16f2a"
+        },
+        "id": "a0ee406d-7c95-41db-a24f-4c302e2ba4c0",
+        "embeds": "",
+        "z": 21,
+        "routing": "straight",
+        "objectID": "322113c3-0083-75a4-3cc3-1d22a5ade1e7",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8bb85210-f48f-4b1d-b193-0465a064fed7"
+        },
+        "target": {
+          "id": "f0e2e25f-9c17-1521-a921-87bf87dc57bf"
+        },
+        "id": "d5fcdf67-130a-4895-943e-322a440559a9",
+        "embeds": "",
+        "z": 23,
+        "routing": "straight",
+        "objectID": "c78161ca-393b-651d-6412-d382248753c9",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8bb85210-f48f-4b1d-b193-0465a064fed7"
+        },
+        "target": {
+          "x": 507,
+          "y": 456
+        },
+        "id": "b20dccc9-dcba-4483-a8bf-c91c5746d8f8",
+        "embeds": "",
+        "z": 24,
+        "routing": "straight",
+        "objectID": "b6474c5d-fdf7-1380-c687-3ebfb2b1945b",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "x": 287,
+          "y": 228
+        },
+        "target": {
+          "x": 268,
+          "y": 284
+        },
+        "id": "bc02fb1f-5c15-49c7-ae6c-57d8f5bd131d",
+        "embeds": "",
+        "z": 25,
+        "routing": "straight",
+        "objectID": "2ba85493-c4e6-c39d-4344-c5255dde9591",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "18c943e1-fea0-4c28-85f2-c4297b03d425"
+        },
+        "target": {
+          "id": "bac75c89-5709-86c9-25de-0c1f72b18b78"
+        },
+        "id": "7fa95f39-c7c2-48db-b421-f28408d623ce",
+        "embeds": "",
+        "z": 26,
+        "routing": "straight",
+        "objectID": "e1285868-172b-c3dc-c5cc-bb1b91f7e96c",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 112.46983136906607,
+            "y": 388
+          },
+          {
+            "x": 304,
+            "y": 387
+          },
+          {
+            "x": 305,
+            "y": 496
+          },
+          {
+            "x": 228,
+            "y": 497
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "2851325f-abeb-ef7e-fb9c-826e18a75184"
+        },
+        "target": {
+          "x": 208,
+          "y": 387
+        },
+        "id": "47c09a81-6ec2-429e-afbf-0c554a8a6d26",
+        "embeds": "",
+        "z": 27,
+        "routing": "straight",
+        "objectID": "60ddd189-c2d8-df76-e5a6-1cb2888e512b",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "fdda8bb8-6648-2210-0f41-2720f93a12b2"
+        },
+        "target": {
+          "x": 304,
+          "y": 433
+        },
+        "id": "9d1b83fa-67b4-4390-9ff7-da479ce3b822",
+        "embeds": "",
+        "z": 28,
+        "routing": "straight",
+        "objectID": "4ab3264e-4dbb-5987-db0f-d9dc0c68a27c",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 219,
+            "y": 436
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8a16add3-c5f6-a2a9-7b28-7b9d653ea68a"
+        },
+        "target": {
+          "x": 222,
+          "y": 435
+        },
+        "id": "3ff0c6d9-bcbf-4dd8-a1bb-e2ba45acd0e3",
+        "embeds": "",
+        "z": 29,
+        "routing": "straight",
+        "objectID": "f18ac0a8-31ce-d94c-ea3a-1c9b33ba8b77",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 104,
+            "y": 436
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "x": 424,
+          "y": 482
+        },
+        "target": {
+          "id": "f0e2e25f-9c17-1521-a921-87bf87dc57bf"
+        },
+        "id": "b323862b-9a04-4862-ad62-5fbb425d9b45",
+        "embeds": "",
+        "z": 30,
+        "routing": "curved",
+        "objectID": "38004324-0fd1-bebe-740d-df01a9011e12",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 368,
+            "y": 515
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "0ea20ea2-593f-961b-dbb2-022cb4c7cf07"
+        },
+        "target": {
+          "x": 411,
+          "y": 543
+        },
+        "id": "63eb1109-8139-4b7b-a7ff-02015c9b7562",
+        "embeds": "",
+        "z": 31,
+        "routing": "curved",
+        "objectID": "23a8728f-8293-c157-f362-230f9805d23d",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 361,
+            "y": 573
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 369,
+          "y": 580
+        },
+        "size": {
+          "width": 238,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"87ed3b0b-c12c-f475-63ac-9a90d04263cf\" id=\"idb16cba22-f05e-ef55-82ab-51b25874cc47\" data-type=\"term\">physical proximity threats</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "target",
+        "routing": "curved",
+        "id": "4f8df9ef-e523-4d3b-b0aa-7ee779b2b238",
+        "z": 32,
+        "labelLayout": {
+          "labelBoxWidth": 217.19740295410156,
+          "fullString": "PHYSICAL PROXIMITY THREATS 158",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PHYSICAL PROXIMITY THREATS 158",
+              "width": 204.4307098388672,
+              "x": 6.3833465576171875,
+              "y": 11.765453662109376
+            }
+          ],
+          "textWidth": 204.4307098388672,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "75567f8e-5e3e-d922-004f-dae7d5d69fdb",
+        "number": 58
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "4f8df9ef-e523-4d3b-b0aa-7ee779b2b238"
+        },
+        "target": {
+          "x": 318,
+          "y": 596
+        },
+        "id": "0d617b56-4dac-4b86-bf32-6eeac097e494",
+        "embeds": "",
+        "z": 33,
+        "routing": "straight",
+        "objectID": "9af9dc67-5e86-57be-8cca-5e4feb3fe2c0",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "4f8df9ef-e523-4d3b-b0aa-7ee779b2b238"
+        },
+        "target": {
+          "x": 466,
+          "y": 544
+        },
+        "id": "dc9a0ba1-cace-4d5d-a81c-197eab479ed0",
+        "embeds": "",
+        "z": 34,
+        "routing": "straight",
+        "objectID": "f6931545-ac2b-3aee-ad70-559a632cf8c2",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "260bd4da-0027-8478-b412-f679523dd2b4"
+        },
+        "target": {
+          "x": 629,
+          "y": 553
+        },
+        "id": "d0273edc-c5f6-4152-8b8a-1b6754093135",
+        "embeds": "",
+        "z": 35,
+        "routing": "curved",
+        "objectID": "e850ad6f-6700-4ba7-8765-14545c94e4c6",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 580,
+            "y": 571
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 427,
+          "y": 292
+        },
+        "size": {
+          "width": 154,
+          "height": 87
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"e79d4836-0dca-90cc-2f90-a18665afa94c\" id=\"id650bedf7-7d42-d8bf-77bb-747a241227ea\" data-type=\"term\">internet</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "curved",
+        "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b",
+        "z": 36,
+        "labelLayout": {
+          "labelBoxWidth": 123.54826354980469,
+          "fullString": "INTERNET 160",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "INTERNET 160",
+              "width": 84.80816650390625,
+              "x": 19.37004852294922,
+              "y": 5.99673875732422
+            }
+          ],
+          "textWidth": 84.80816650390625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "34c944a4-c93c-62ad-c1db-0d0117a94e80",
+        "number": 60
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b"
+        },
+        "target": {
+          "id": "4089c631-5eaf-7708-cc06-ca04225fb396"
+        },
+        "id": "37d2ded0-7c8a-42f8-83bf-7d77f702469a",
+        "embeds": "",
+        "z": 37,
+        "routing": "straight",
+        "objectID": "b9b06df2-5657-261b-16fe-975cccfa3689",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b"
+        },
+        "target": {
+          "x": 408,
+          "y": 433
+        },
+        "id": "77296176-67d3-45bf-a5f3-9c26c38e465d",
+        "embeds": "",
+        "z": 38,
+        "routing": "straight",
+        "objectID": "4028ac54-3e59-6a4c-f393-302db729b534",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"25bced7c-4b9d-e465-912d-8179601efeef\" id=\"idcc522a77-0a71-89be-ae27-7dc960a0c360\" data-type=\"term\">server</span></p>",
+        "position": {
+          "x": 503,
+          "y": 410.9999999999998
+        },
+        "size": {
+          "width": 101,
+          "height": 25
+        },
+        "angle": 0,
+        "label": "<p>server c</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "straight",
+        "id": "f2fa565f-0275-45c5-adca-a24082598011",
+        "z": 39,
+        "labelLayout": {
+          "labelBoxWidth": 92.17200469970703,
+          "fullString": "server c 138",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "server c 138",
+              "width": 71.83366394042969,
+              "x": 10.169170379638672,
+              "y": 0.859917010498048
+            }
+          ],
+          "textWidth": 71.83366394042969,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7c3a4b35-f6da-9a01-2c50-1658c7d8cba3",
+        "number": 38
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b"
+        },
+        "target": {
+          "x": 560,
+          "y": 412
+        },
+        "id": "ad91195e-6a32-4d66-b3a6-e788fd86d2ba",
+        "embeds": "",
+        "z": 40,
+        "routing": "straight",
+        "objectID": "755bd521-917c-254b-6b59-1cb697a7a954",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "vertices": [],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "ea4c156c-54a8-484d-aba2-056ae2731237"
+        },
+        "target": {
+          "id": "88dafaf9-e6ad-dc08-652a-b269b196ab06"
+        },
+        "id": "d98699ec-c066-4e8a-9f47-49d0e6a078f2",
+        "embeds": "",
+        "z": 41,
+        "routing": "straight",
+        "objectID": "d178be7f-b979-517b-4502-42cdff1b0189",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 611,
+            "y": 126
+          },
+          {
+            "x": 614,
+            "y": 467
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 639,
+          "y": 273
+        },
+        "size": {
+          "width": 256,
+          "height": 328
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"50c0b892-7351-6ac9-32e4-f5dc20610d6b\" id=\"idaa16542e-b76e-acc5-23e5-d55e09c524f5\" data-type=\"term\">secondary location threat network</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "straight",
+        "id": "a45a79b7-29ae-4306-a0fe-33f6414559a2",
+        "z": 42,
+        "labelLayout": {
+          "labelBoxWidth": 233.6240997314453,
+          "fullString": "SECONDARY LOCATION THREAT NETWORK 162",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "SECONDARY LOCATION THREAT",
+              "width": 182.1261749267578,
+              "x": 25.74896240234375,
+              "y": 0
+            },
+            {
+              "text": "NETWORK 162",
+              "width": 87.15890502929688,
+              "x": 73.23259735107422,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 182.1261749267578,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "23783f87-25e4-cc93-497f-59fc9f448860",
+        "number": 62
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a06aaa1f-4f2a-dac3-86f5-b3bb184c2d86\" id=\"id9f2e120e-a030-408e-8723-fdfd813657e1\" data-type=\"term\">firewall</span></p>",
+        "position": {
+          "x": 667,
+          "y": 353
+        },
+        "size": {
+          "width": 93,
+          "height": 46
+        },
+        "angle": 0,
+        "label": "<p>firewall b</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "straight",
+        "id": "0914a7fd-c2b7-4055-9520-3d57d53f355a",
+        "z": 43,
+        "labelLayout": {
+          "labelBoxWidth": 84.87126159667969,
+          "fullString": "firewall b 140",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "firewall b",
+              "width": 55.3421630859375,
+              "x": 14.764549255371094,
+              "y": 0
+            },
+            {
+              "text": "140",
+              "width": 22.386520385742188,
+              "x": 31.24237060546875,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 55.3421630859375,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "872614bf-02f5-343a-313f-5f17f93e58f1",
+        "number": 40
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"26e2aaa8-d191-086d-08dd-21e5bea1d7f3\" id=\"id23f43831-5aec-361b-11e1-443f914bda03\" data-type=\"term\">appliance</span></p>",
+        "position": {
+          "x": 768,
+          "y": 353
+        },
+        "size": {
+          "width": 101.72107857087131,
+          "height": 47.39277524324686
+        },
+        "angle": 0,
+        "label": "<p>appliance b</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "straight",
+        "id": "865ab556-3c2c-096d-59d9-82f9cad32099",
+        "z": 44,
+        "labelLayout": {
+          "labelBoxWidth": 92.83006286621094,
+          "fullString": "appliance b 166",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "appliance b",
+              "width": 70.24830627441406,
+              "x": 11.290878295898438,
+              "y": 0
+            },
+            {
+              "text": "166",
+              "width": 22.386520385742188,
+              "x": 35.221771240234375,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 70.24830627441406,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "0563d69d-d5b0-c8f2-56a6-b2e4f7ec3119",
+        "number": 66
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"25bced7c-4b9d-e465-912d-8179601efeef\" id=\"id5ab73201-2ba0-eb3c-63a4-a752e47d05f2\" data-type=\"term\">server</span></p>",
+        "position": {
+          "x": 717,
+          "y": 430
+        },
+        "size": {
+          "width": 123,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>server b</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "routing": "straight",
+        "id": "8137c987-a715-4941-8f2a-438e9aa68baa",
+        "z": 45,
+        "labelLayout": {
+          "labelBoxWidth": 112.24907684326172,
+          "fullString": "server b 142",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "server b 142",
+              "width": 74.18438720703125,
+              "x": 19.032344818115234,
+              "y": 0
+            }
+          ],
+          "textWidth": 74.18438720703125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "cfe76696-3521-f2ac-d5dd-4471d50aa513",
+        "number": 42
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"idc3acf81a-f8d4-24e9-7df5-42311f811f75\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 664,
+          "y": 483
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client g</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "86b3f3d9-066b-d408-0d86-ce8007b18769",
+        "z": 46,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client g 120",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client g 120",
+              "width": 68.28933715820312,
+              "x": 12.397632598876953,
+              "y": 0
+            }
+          ],
+          "textWidth": 68.28933715820312,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "7a913c7c-1be1-c7da-8e2c-5c9a74ae7353",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a828b390-d539-3680-ae4f-3a70c3030dc9\" id=\"idd2420dcf-3b3a-10a5-cb8d-8beb6021e9a9\" data-type=\"term\">network devices</span></p>",
+        "position": {
+          "x": 771,
+          "y": 483
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>net dev c</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "8558b70c-1124-b94f-dd49-8fdba74dab64",
+        "z": 47,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "net dev c 122",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "net dev c 122",
+              "width": 79.05892944335938,
+              "x": 7.012836456298828,
+              "y": 0
+            }
+          ],
+          "textWidth": 79.05892944335938,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "50a1dab8-2f64-b8c5-f195-7b77d459208b",
+        "number": 22
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"a828b390-d539-3680-ae4f-3a70c3030dc9\" id=\"idd2420dcf-3b3a-10a5-cb8d-8beb6021e9a9\" data-type=\"term\">network devices</span></p>",
+        "position": {
+          "x": 772,
+          "y": 532
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>net dev d</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "9b8fa494-b9f3-861d-2405-cb6f96f7df2b",
+        "z": 48,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "net dev d 124",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "net dev d 124",
+              "width": 81.40965270996094,
+              "x": 5.837474822998047,
+              "y": 0
+            }
+          ],
+          "textWidth": 81.40965270996094,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "020ccac5-6d7d-19f4-b303-cf4fb1d311a0",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"2334af83-b149-1850-694e-a8bfce88e996\" id=\"id649c5661-7dd1-e926-ae60-eb404185bf7f\" data-type=\"term\">clients</span></p>",
+        "position": {
+          "x": 667,
+          "y": 567
+        },
+        "size": {
+          "width": 102,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>client f</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "6cac08df-31e7-486b-6cad-898e7fd3ba56",
+        "z": 49,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "client f 130",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "client f 130",
+              "width": 65.665283203125,
+              "x": 13.709659576416016,
+              "y": 0
+            }
+          ],
+          "textWidth": 65.665283203125,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "5b6386c8-cf39-9be3-10a2-ced70e3a09b9",
+        "number": 30
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "<p><span data-role=\"tag\" data-value=\"6c568234-4729-f835-b6d4-c116028391c4\" id=\"id44d13e66-1b88-cbb8-236d-58abeb28868c\" data-type=\"term\">security facility</span></p>",
+        "position": {
+          "x": 766,
+          "y": 567
+        },
+        "size": {
+          "width": 28,
+          "height": 27
+        },
+        "angle": 0,
+        "label": "<p>s</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "828b900e-8a08-ac36-0d14-08f752aadd05",
+        "z": 50,
+        "labelLayout": {
+          "labelBoxWidth": 25.552635192871094,
+          "fullString": "s",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "s",
+              "width": 5.876800537109375,
+              "x": 9.83791732788086,
+              "y": 0
+            }
+          ],
+          "textWidth": 5.876800537109375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "e317f129-4d33-48b7-e492-2b8b7f973dfb",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "bc50e571-b2b9-0274-812a-6bedf5b9a5d2"
+        },
+        "target": {
+          "x": 779,
+          "y": 562
+        },
+        "id": "43397e58-cd9b-4d63-bb71-5237d99c2769",
+        "embeds": "",
+        "z": 51,
+        "routing": "straight",
+        "objectID": "2056b859-9a14-a52c-2dc6-44c15159aefa",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "bc50e571-b2b9-0274-812a-6bedf5b9a5d2"
+        },
+        "target": {
+          "id": "260bd4da-0027-8478-b412-f679523dd2b4"
+        },
+        "id": "068da6cd-b755-4c3f-9a43-ce8db50748d5",
+        "embeds": "",
+        "z": 52,
+        "routing": "straight",
+        "objectID": "8475a1ad-f7a5-f1a2-78d0-19c7c1b49ad5",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "x": 606,
+          "y": 620
+        },
+        "target": {
+          "x": 680,
+          "y": 603
+        },
+        "id": "c62c9a06-d24b-46a2-8851-c43b04dc559d",
+        "embeds": "",
+        "z": 53,
+        "routing": "straight",
+        "objectID": "0f44ec7a-b8bf-09ac-cf32-a1637100d8b9",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "0914a7fd-c2b7-4055-9520-3d57d53f355a"
+        },
+        "target": {
+          "x": 781,
+          "y": 380
+        },
+        "id": "4bec5dfe-903e-464d-abbb-5d6151dad9fe",
+        "embeds": "",
+        "z": 54,
+        "routing": "straight",
+        "objectID": "a3fb5b63-42ab-2805-2b64-b654f900fddd",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "x": 817,
+          "y": 533
+        },
+        "target": {
+          "id": "0914a7fd-c2b7-4055-9520-3d57d53f355a"
+        },
+        "id": "666ab7ac-d57d-4fa8-98a0-86819c6452dd",
+        "embeds": "",
+        "z": 55,
+        "routing": "straight",
+        "objectID": "b5b0d8e6-946e-4904-c643-4c5780978ccf",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 818,
+            "y": 524
+          },
+          {
+            "x": 890,
+            "y": 524
+          },
+          {
+            "x": 888,
+            "y": 418
+          },
+          {
+            "x": 713,
+            "y": 417
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8558b70c-1124-b94f-dd49-8fdba74dab64"
+        },
+        "target": {
+          "x": 892,
+          "y": 470
+        },
+        "id": "350efeb5-f7fe-4634-9919-42e8faf77587",
+        "embeds": "",
+        "z": 56,
+        "routing": "straight",
+        "objectID": "345f67be-a57d-c3a6-4304-7714787f10d3",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 823,
+            "y": 470
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "86b3f3d9-066b-d408-0d86-ce8007b18769"
+        },
+        "target": {
+          "x": 823,
+          "y": 469
+        },
+        "id": "3ebe9b70-9752-4f94-8ae8-995e4f944ab9",
+        "embeds": "",
+        "z": 57,
+        "routing": "straight",
+        "objectID": "7f35ef5b-6220-0582-4e92-adccec8e12aa",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [
+          {
+            "x": 711,
+            "y": 470
+          }
+        ],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "astyped",
+        "showLabel": true,
+        "source": {
+          "id": "8137c987-a715-4941-8f2a-438e9aa68baa"
+        },
+        "target": {
+          "x": 776,
+          "y": 417
+        },
+        "id": "68f992c4-6c6d-459f-8c40-a9ff34865781",
+        "embeds": "",
+        "z": 58,
+        "routing": "straight",
+        "objectID": "0b377d28-4386-7f88-007b-cf371346e9e3",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 675,
+          "y": 109
+        },
+        "size": {
+          "width": 173,
+          "height": 57
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"ff6ca6f6-396d-87af-7cbc-faa4c77684f2\" id=\"id9e2e230c-7ed3-8742-4db1-8a8db804dba9\" data-type=\"term\">network threats</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "neither",
+        "routing": "straight",
+        "id": "22eb71fc-29db-467c-8d26-3c0b0ba08993",
+        "z": 59,
+        "labelLayout": {
+          "labelBoxWidth": 157.8787841796875,
+          "fullString": "NETWORK THREATS 154",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NETWORK THREATS 154",
+              "width": 141.55349731445312,
+              "x": 8.162643432617188,
+              "y": 0
+            }
+          ],
+          "textWidth": 141.55349731445312,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9d2078e2-1453-3dc0-edf3-67a7b6f9ef82",
+        "number": 54
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 540,
+          "y": 304
+        },
+        "target": {
+          "id": "22eb71fc-29db-467c-8d26-3c0b0ba08993"
+        },
+        "id": "12ab2945-4a6a-4f9b-8fcc-e3ce55029ddc",
+        "embeds": "",
+        "z": 60,
+        "routing": "straight",
+        "objectID": "fb304de6-38b3-a34b-5e7e-fb841a3e97ee",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "vertices": [],
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b"
+        },
+        "target": {
+          "id": "a45a79b7-29ae-4306-a0fe-33f6414559a2"
+        },
+        "id": "31311d8d-891e-48a8-8403-a78524c25c88",
+        "embeds": "",
+        "z": 61,
+        "routing": "straight",
+        "objectID": "d88e48f3-0422-6ebf-6061-62b7ddde361a",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a3f45477-9d3c-4408-b8b8-8278466bf90b"
+        },
+        "target": {
+          "id": "ea4c156c-54a8-484d-aba2-056ae2731237"
+        },
+        "id": "c1dffbb3-5986-418b-89fa-1acb40d7bfde",
+        "embeds": "",
+        "z": 62,
+        "routing": "straight",
+        "objectID": "28788dab-046c-0125-49d4-2f336422ad8b",
+        "labelVAlign": "top",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      }
+    ]
+  }
+}
